@@ -1,1 +1,23 @@
-{}
+{
+  "hsamlybya174gmailc": {
+    "username": "hsamlybya174gmailc",
+    "password": "fEUGdJz33D2NrWb",
+    "student_type": "علمي",
+    "telegram_user_id": "6419904165",
+    "telegram_username": "Fuclr",
+    "telegram_first_name": ".",
+    "profile_photo_url": null,
+    "session_id": "9df00c07-83ad-44a1-829e-38c4d1ada914",
+    "created_at": "2026-05-10T17:57:33.659120",
+    "verified": true,
+    "last_login": "2026-05-10T17:57:37.025882",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "statistics",
+      "physics_electric",
+      "english"
+    ],
+    "server_num": 26
+  }
+}
