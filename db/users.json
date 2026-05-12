@@ -19,5 +19,33 @@
       "english"
     ],
     "server_num": 26
+  },
+  "ysymlak8gmailcom": {
+    "username": "ysymlak8gmailcom",
+    "password": "Shadashado08",
+    "student_type": "علمي",
+    "telegram_user_id": "1335284239",
+    "telegram_username": null,
+    "telegram_first_name": "💓",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_76.jpg",
+    "session_id": "e89cba46-2768-40ff-9baf-1a30388a814e",
+    "created_at": "2026-05-12T12:47:23.771857",
+    "verified": true,
+    "last_login": "2026-05-12T12:53:21.464361",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "english",
+      "math",
+      "it",
+      "statistics",
+      "chemistry",
+      "physics_electric",
+      "physics_mechanic",
+      "biology",
+      "literary_studies",
+      "linguistic_studies"
+    ],
+    "server_num": 26
   }
 }
